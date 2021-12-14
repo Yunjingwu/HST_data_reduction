@@ -13,9 +13,6 @@
 
 ${\rm EW} = N\frac{\pi q_e^2\lambda^2f}{m_ec^2}$, $N = {\rm EW} \frac{m_ec^2}{\pi q_e^2\lambda^2f}$, $\lg N = \lg (0.238\times \frac{m_ec^2}{\pi q_e^2\lambda^2f})=14.5$
 
-```markdown
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-```
 
 | OI field       | HST observations                    |
 | -------------- | ----------------------------------- |
